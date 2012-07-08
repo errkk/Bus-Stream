@@ -1,0 +1,6 @@
+Pygments==1.5
+bpython==0.11
+distribute==0.6.24
+pycurl==7.19.0
+simplejson==2.6.0
+wsgiref==0.1.2
